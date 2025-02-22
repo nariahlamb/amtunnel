@@ -28,3 +28,4 @@ proxy.xxxxxxxx.tk
 cdn.xn--b6gac.eu.org
 cdn-all.xn--b6gac.eu.org
 cdn.anycast.eu.org
+sjc.o00o.ooo
